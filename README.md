@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Entes-steinla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# _Amazing world of BMinh_
 
-<!---
-Entes-steinla/Entes-steinla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**SKILLS**
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,github,git,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,ps)](https://skillicons.dev)
+
+
+`printf("Midoriya Izuku");`
+`cout << "XXXTENTACION";`
+`console.log("Takayan");`
+`System.out.println("MCK");`
+
+__*What is money really worth if it ain't love?*__
+__*I'ma find a perfect balance, it's gon' take time...*__
+
+![Deku](https://i.pinimg.com/564x/cb/bc/0f/cbbc0fd08b18cb06956a463416c0fc09.jpg)
