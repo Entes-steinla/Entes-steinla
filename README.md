@@ -2,7 +2,7 @@
 
 **SKILLS**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,github,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,github,git,vscode)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,ps)](https://skillicons.dev)
 
